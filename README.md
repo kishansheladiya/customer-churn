@@ -6,7 +6,7 @@
 ![SMOTE](https://img.shields.io/badge/SMOTE-imbalanced--learn-purple)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-Predict customer churn using Logistic Regression, Random Forest, and XGBoost — with SMOTE to handle class imbalance, ROC curve comparison, and actionable business recommendations.
+Predict customer churn using Logistic Regression, Random Forest, and XGBoost, with SMOTE to handle class imbalance, ROC curve comparison, and actionable business recommendations.
 
 ---
 
